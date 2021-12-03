@@ -1,0 +1,2 @@
+1. Googlin' is no joke! I have googled something everyday since I started Mod0 and understand the important use of it in Turing's everyday activities
+2. The tip "start your prework right away" has helped me not only feel like I am progressing in the right direction, but it's helped me stay on top of lessons and actively apply what I learn in the sessions directly to the prework. I also feel less stressed than procrastinating. 
