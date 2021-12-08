@@ -3,3 +3,4 @@
 3. A strategy I would like to try out is Pseudocode for each project I encounter at Turing. It seems like this is a very helpful strategy when it comes to interviewing and going through the technical parts of these interviews.
 4. Breaking down problems is a strategy I would like to work on that is similar to pseudo code but when I get more deep into code, it's important to understand each parts of the problem to guide me in the right direction of fixing something that's broke.
 5. Amy Holt is someone I'd like to shout out as our fearless Mod0 leader who is super helpful and willing to work with you to ensure I understand everything or at least try to. Thanks Amy!!
+6. Working on GitPush! 
